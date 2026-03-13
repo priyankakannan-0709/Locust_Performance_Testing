@@ -1,0 +1,93 @@
+{
+  "archived_at": "2026-03-05T10:52:18.999507Z",
+  "comparison_flag": true,
+  "raw_results": {
+    "/auth/login": {
+      "Type": "POST",
+      "Name": "/auth/login",
+      "Request Count": 3.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 720.0,
+      "Average Response Time": 762.5089026696514,
+      "Min Response Time": 605.2048749988899,
+      "Max Response Time": 958.8335829903372,
+      "Average Content Size": 930.0,
+      "Requests/s": 0.1710386306831204,
+      "Failures/s": 0.0,
+      "50%": 720.0,
+      "66%": 720.0,
+      "75%": 960.0,
+      "80%": 960.0,
+      "90%": 960.0,
+      "95%": 960.0,
+      "98%": 960.0,
+      "99%": 960.0,
+      "99.9%": 960.0,
+      "99.99%": 960.0,
+      "100%": 960.0
+    },
+    "/auth/me": {
+      "Type": "GET",
+      "Name": "/auth/me",
+      "Request Count": 9.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 240.0,
+      "Average Response Time": 254.91813433149622,
+      "Min Response Time": 214.1447500034701,
+      "Max Response Time": 313.53166699409485,
+      "Average Content Size": 1423.0,
+      "Requests/s": 0.5131158920493611,
+      "Failures/s": 0.0,
+      "50%": 240.0,
+      "66%": 250.0,
+      "75%": 270.0,
+      "80%": 310.0,
+      "90%": 310.0,
+      "95%": 310.0,
+      "98%": 310.0,
+      "99%": 310.0,
+      "99.9%": 310.0,
+      "99.99%": 310.0,
+      "100%": 310.0
+    },
+    "/users": {
+      "Type": "GET",
+      "Name": "/users",
+      "Request Count": 9.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 240.0,
+      "Average Response Time": 322.6295324436958,
+      "Min Response Time": 208.42712500598282,
+      "Max Response Time": 943.1925000099,
+      "Average Content Size": 41905.0,
+      "Requests/s": 0.5131158920493611,
+      "Failures/s": 0.0,
+      "50%": 240.0,
+      "66%": 240.0,
+      "75%": 310.0,
+      "80%": 330.0,
+      "90%": 940.0,
+      "95%": 940.0,
+      "98%": 940.0,
+      "99%": 940.0,
+      "99.9%": 940.0,
+      "99.99%": 940.0,
+      "100%": 940.0
+    }
+  },
+  "sla_evaluation": {
+    "/auth/login": {
+      "_api_status": "NEW_BASELINE_CAPTURED"
+    },
+    "/auth/me": {
+      "_api_status": "NEW_BASELINE_CAPTURED"
+    },
+    "/users": {
+      "_api_status": "NEW_BASELINE_CAPTURED"
+    },
+    "/post": {
+      "_api_status": "REMOVED_API",
+      "_reason": "Present in baseline, not found in current run"
+    }
+  }
+}

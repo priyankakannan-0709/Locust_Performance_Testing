@@ -1,0 +1,4130 @@
+{
+  "archived_at": "2026-03-12T16:13:13.379910Z",
+  "comparison_flag": true,
+  "raw_results": {
+    "[baseline_page][profile_100_rows]": {
+      "Type": "PAGE",
+      "Name": "[baseline_page][profile_100_rows]",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 658.9571250078734,
+      "Average Response Time": 658.9571250078734,
+      "Min Response Time": 658.9571250078734,
+      "Max Response Time": 658.9571250078734,
+      "Average Content Size": 0.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 660.0,
+      "66%": 660.0,
+      "75%": 660.0,
+      "80%": 660.0,
+      "90%": 660.0,
+      "95%": 660.0,
+      "98%": 660.0,
+      "99%": 660.0,
+      "99.9%": 660.0,
+      "99.99%": 660.0,
+      "100%": 660.0
+    },
+    "[baseline_page][profile_100_rows] GET /api/baseline/download/{study_id}": {
+      "Type": "GET",
+      "Name": "[baseline_page][profile_100_rows] GET /api/baseline/download/{study_id}",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 342.76087500620633,
+      "Average Response Time": 342.76087500620633,
+      "Min Response Time": 342.76087500620633,
+      "Max Response Time": 342.76087500620633,
+      "Average Content Size": 592.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 340.0,
+      "66%": 340.0,
+      "75%": 340.0,
+      "80%": 340.0,
+      "90%": 340.0,
+      "95%": 340.0,
+      "98%": 340.0,
+      "99%": 340.0,
+      "99.9%": 340.0,
+      "99.99%": 340.0,
+      "100%": 340.0
+    },
+    "[baseline_page][profile_100_rows] POST /api/baseline/upload": {
+      "Type": "POST",
+      "Name": "[baseline_page][profile_100_rows] POST /api/baseline/upload",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 315.3382500022417,
+      "Average Response Time": 315.3382500022417,
+      "Min Response Time": 315.3382500022417,
+      "Max Response Time": 315.3382500022417,
+      "Average Content Size": 8732.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 320.0,
+      "66%": 320.0,
+      "75%": 320.0,
+      "80%": 320.0,
+      "90%": 320.0,
+      "95%": 320.0,
+      "98%": 320.0,
+      "99%": 320.0,
+      "99.9%": 320.0,
+      "99.99%": 320.0,
+      "100%": 320.0
+    },
+    "[baseline_page][profile_50_rows]": {
+      "Type": "PAGE",
+      "Name": "[baseline_page][profile_50_rows]",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 607.2668340057135,
+      "Average Response Time": 607.2668340057135,
+      "Min Response Time": 607.2668340057135,
+      "Max Response Time": 607.2668340057135,
+      "Average Content Size": 0.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 610.0,
+      "66%": 610.0,
+      "75%": 610.0,
+      "80%": 610.0,
+      "90%": 610.0,
+      "95%": 610.0,
+      "98%": 610.0,
+      "99%": 610.0,
+      "99.9%": 610.0,
+      "99.99%": 610.0,
+      "100%": 610.0
+    },
+    "[baseline_page][profile_50_rows] GET /api/baseline/download/{study_id}": {
+      "Type": "GET",
+      "Name": "[baseline_page][profile_50_rows] GET /api/baseline/download/{study_id}",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 280.9783750126371,
+      "Average Response Time": 280.9783750126371,
+      "Min Response Time": 280.9783750126371,
+      "Max Response Time": 280.9783750126371,
+      "Average Content Size": 592.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 280.0,
+      "66%": 280.0,
+      "75%": 280.0,
+      "80%": 280.0,
+      "90%": 280.0,
+      "95%": 280.0,
+      "98%": 280.0,
+      "99%": 280.0,
+      "99.9%": 280.0,
+      "99.99%": 280.0,
+      "100%": 280.0
+    },
+    "[baseline_page][profile_50_rows] POST /api/baseline/upload": {
+      "Type": "POST",
+      "Name": "[baseline_page][profile_50_rows] POST /api/baseline/upload",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 325.3617500013206,
+      "Average Response Time": 325.3617500013206,
+      "Min Response Time": 325.3617500013206,
+      "Max Response Time": 325.3617500013206,
+      "Average Content Size": 8731.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 330.0,
+      "66%": 330.0,
+      "75%": 330.0,
+      "80%": 330.0,
+      "90%": 330.0,
+      "95%": 330.0,
+      "98%": 330.0,
+      "99%": 330.0,
+      "99.9%": 330.0,
+      "99.99%": 330.0,
+      "100%": 330.0
+    },
+    "[data_prep_page][profile_100_rows]": {
+      "Type": "PAGE",
+      "Name": "[data_prep_page][profile_100_rows]",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 953.6865839909296,
+      "Average Response Time": 953.6865839909296,
+      "Min Response Time": 953.6865839909296,
+      "Max Response Time": 953.6865839909296,
+      "Average Content Size": 0.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 950.0,
+      "66%": 950.0,
+      "75%": 950.0,
+      "80%": 950.0,
+      "90%": 950.0,
+      "95%": 950.0,
+      "98%": 950.0,
+      "99%": 950.0,
+      "99.9%": 950.0,
+      "99.99%": 950.0,
+      "100%": 950.0
+    },
+    "[data_prep_page][profile_100_rows] GET /api/data-prep/download/{study_id}": {
+      "Type": "GET",
+      "Name": "[data_prep_page][profile_100_rows] GET /api/data-prep/download/{study_id}",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 349.1152089991374,
+      "Average Response Time": 349.1152089991374,
+      "Min Response Time": 349.1152089991374,
+      "Max Response Time": 349.1152089991374,
+      "Average Content Size": 592.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 350.0,
+      "66%": 350.0,
+      "75%": 350.0,
+      "80%": 350.0,
+      "90%": 350.0,
+      "95%": 350.0,
+      "98%": 350.0,
+      "99%": 350.0,
+      "99.9%": 350.0,
+      "99.99%": 350.0,
+      "100%": 350.0
+    },
+    "[data_prep_page][profile_100_rows] POST /api/data-prep/upload": {
+      "Type": "POST",
+      "Name": "[data_prep_page][profile_100_rows] POST /api/data-prep/upload",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 603.8006250018952,
+      "Average Response Time": 603.8006250018952,
+      "Min Response Time": 603.8006250018952,
+      "Max Response Time": 603.8006250018952,
+      "Average Content Size": 8363.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 600.0,
+      "66%": 600.0,
+      "75%": 600.0,
+      "80%": 600.0,
+      "90%": 600.0,
+      "95%": 600.0,
+      "98%": 600.0,
+      "99%": 600.0,
+      "99.9%": 600.0,
+      "99.99%": 600.0,
+      "100%": 600.0
+    },
+    "[data_prep_page][profile_50_rows]": {
+      "Type": "PAGE",
+      "Name": "[data_prep_page][profile_50_rows]",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 892.8324580047047,
+      "Average Response Time": 892.8324580047047,
+      "Min Response Time": 892.8324580047047,
+      "Max Response Time": 892.8324580047047,
+      "Average Content Size": 0.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 890.0,
+      "66%": 890.0,
+      "75%": 890.0,
+      "80%": 890.0,
+      "90%": 890.0,
+      "95%": 890.0,
+      "98%": 890.0,
+      "99%": 890.0,
+      "99.9%": 890.0,
+      "99.99%": 890.0,
+      "100%": 890.0
+    },
+    "[data_prep_page][profile_50_rows] GET /api/data-prep/download/{study_id}": {
+      "Type": "GET",
+      "Name": "[data_prep_page][profile_50_rows] GET /api/data-prep/download/{study_id}",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 318.1102499947883,
+      "Average Response Time": 318.1102499947883,
+      "Min Response Time": 318.1102499947883,
+      "Max Response Time": 318.1102499947883,
+      "Average Content Size": 592.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 320.0,
+      "66%": 320.0,
+      "75%": 320.0,
+      "80%": 320.0,
+      "90%": 320.0,
+      "95%": 320.0,
+      "98%": 320.0,
+      "99%": 320.0,
+      "99.9%": 320.0,
+      "99.99%": 320.0,
+      "100%": 320.0
+    },
+    "[data_prep_page][profile_50_rows] POST /api/data-prep/upload": {
+      "Type": "POST",
+      "Name": "[data_prep_page][profile_50_rows] POST /api/data-prep/upload",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 573.6337499984074,
+      "Average Response Time": 573.6337499984074,
+      "Min Response Time": 573.6337499984074,
+      "Max Response Time": 573.6337499984074,
+      "Average Content Size": 8358.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 570.0,
+      "66%": 570.0,
+      "75%": 570.0,
+      "80%": 570.0,
+      "90%": 570.0,
+      "95%": 570.0,
+      "98%": 570.0,
+      "99%": 570.0,
+      "99.9%": 570.0,
+      "99.99%": 570.0,
+      "100%": 570.0
+    },
+    "[scoping_page][profile_100_rows]": {
+      "Type": "PAGE",
+      "Name": "[scoping_page][profile_100_rows]",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 313.2888750114944,
+      "Average Response Time": 313.2888750114944,
+      "Min Response Time": 313.2888750114944,
+      "Max Response Time": 313.2888750114944,
+      "Average Content Size": 0.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 310.0,
+      "66%": 310.0,
+      "75%": 310.0,
+      "80%": 310.0,
+      "90%": 310.0,
+      "95%": 310.0,
+      "98%": 310.0,
+      "99%": 310.0,
+      "99.9%": 310.0,
+      "99.99%": 310.0,
+      "100%": 310.0
+    },
+    "[scoping_page][profile_100_rows] GET /api/scoping/download/{study_id}": {
+      "Type": "GET",
+      "Name": "[scoping_page][profile_100_rows] GET /api/scoping/download/{study_id}",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 312.95483400754165,
+      "Average Response Time": 312.95483400754165,
+      "Min Response Time": 312.95483400754165,
+      "Max Response Time": 312.95483400754165,
+      "Average Content Size": 596.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 310.0,
+      "66%": 310.0,
+      "75%": 310.0,
+      "80%": 310.0,
+      "90%": 310.0,
+      "95%": 310.0,
+      "98%": 310.0,
+      "99%": 310.0,
+      "99.9%": 310.0,
+      "99.99%": 310.0,
+      "100%": 310.0
+    },
+    "[scoping_page][profile_50_rows]": {
+      "Type": "PAGE",
+      "Name": "[scoping_page][profile_50_rows]",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 311.7500419903081,
+      "Average Response Time": 311.7500419903081,
+      "Min Response Time": 311.7500419903081,
+      "Max Response Time": 311.7500419903081,
+      "Average Content Size": 0.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 310.0,
+      "66%": 310.0,
+      "75%": 310.0,
+      "80%": 310.0,
+      "90%": 310.0,
+      "95%": 310.0,
+      "98%": 310.0,
+      "99%": 310.0,
+      "99.9%": 310.0,
+      "99.99%": 310.0,
+      "100%": 310.0
+    },
+    "[scoping_page][profile_50_rows] GET /api/scoping/download/{study_id}": {
+      "Type": "GET",
+      "Name": "[scoping_page][profile_50_rows] GET /api/scoping/download/{study_id}",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 311.49054199340753,
+      "Average Response Time": 311.49054199340753,
+      "Min Response Time": 311.49054199340753,
+      "Max Response Time": 311.49054199340753,
+      "Average Content Size": 590.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 310.0,
+      "66%": 310.0,
+      "75%": 310.0,
+      "80%": 310.0,
+      "90%": 310.0,
+      "95%": 310.0,
+      "98%": 310.0,
+      "99%": 310.0,
+      "99.9%": 310.0,
+      "99.99%": 310.0,
+      "100%": 310.0
+    },
+    "[study_details_page][profile_100_rows]": {
+      "Type": "PAGE",
+      "Name": "[study_details_page][profile_100_rows]",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 652.4630000058096,
+      "Average Response Time": 652.4630000058096,
+      "Min Response Time": 652.4630000058096,
+      "Max Response Time": 652.4630000058096,
+      "Average Content Size": 0.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 650.0,
+      "66%": 650.0,
+      "75%": 650.0,
+      "80%": 650.0,
+      "90%": 650.0,
+      "95%": 650.0,
+      "98%": 650.0,
+      "99%": 650.0,
+      "99.9%": 650.0,
+      "99.99%": 650.0,
+      "100%": 650.0
+    },
+    "[study_details_page][profile_100_rows] GET /api/study/details/{study_id}": {
+      "Type": "GET",
+      "Name": "[study_details_page][profile_100_rows] GET /api/study/details/{study_id}",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 308.80345799960196,
+      "Average Response Time": 308.80345799960196,
+      "Min Response Time": 308.80345799960196,
+      "Max Response Time": 308.80345799960196,
+      "Average Content Size": 588.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 310.0,
+      "66%": 310.0,
+      "75%": 310.0,
+      "80%": 310.0,
+      "90%": 310.0,
+      "95%": 310.0,
+      "98%": 310.0,
+      "99%": 310.0,
+      "99.9%": 310.0,
+      "99.99%": 310.0,
+      "100%": 310.0
+    },
+    "[study_details_page][profile_100_rows] GET /api/study/summary/{study_id}": {
+      "Type": "GET",
+      "Name": "[study_details_page][profile_100_rows] GET /api/study/summary/{study_id}",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 343.28891699260566,
+      "Average Response Time": 343.28891699260566,
+      "Min Response Time": 343.28891699260566,
+      "Max Response Time": 343.28891699260566,
+      "Average Content Size": 622.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 340.0,
+      "66%": 340.0,
+      "75%": 340.0,
+      "80%": 340.0,
+      "90%": 340.0,
+      "95%": 340.0,
+      "98%": 340.0,
+      "99%": 340.0,
+      "99.9%": 340.0,
+      "99.99%": 340.0,
+      "100%": 340.0
+    },
+    "[study_details_page][profile_50_rows]": {
+      "Type": "PAGE",
+      "Name": "[study_details_page][profile_50_rows]",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 587.0139999897219,
+      "Average Response Time": 587.0139999897219,
+      "Min Response Time": 587.0139999897219,
+      "Max Response Time": 587.0139999897219,
+      "Average Content Size": 0.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 590.0,
+      "66%": 590.0,
+      "75%": 590.0,
+      "80%": 590.0,
+      "90%": 590.0,
+      "95%": 590.0,
+      "98%": 590.0,
+      "99%": 590.0,
+      "99.9%": 590.0,
+      "99.99%": 590.0,
+      "100%": 590.0
+    },
+    "[study_details_page][profile_50_rows] GET /api/study/details/{study_id}": {
+      "Type": "GET",
+      "Name": "[study_details_page][profile_50_rows] GET /api/study/details/{study_id}",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 298.292791005224,
+      "Average Response Time": 298.292791005224,
+      "Min Response Time": 298.292791005224,
+      "Max Response Time": 298.292791005224,
+      "Average Content Size": 588.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 300.0,
+      "66%": 300.0,
+      "75%": 300.0,
+      "80%": 300.0,
+      "90%": 300.0,
+      "95%": 300.0,
+      "98%": 300.0,
+      "99%": 300.0,
+      "99.9%": 300.0,
+      "99.99%": 300.0,
+      "100%": 300.0
+    },
+    "[study_details_page][profile_50_rows] GET /api/study/summary/{study_id}": {
+      "Type": "GET",
+      "Name": "[study_details_page][profile_50_rows] GET /api/study/summary/{study_id}",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 288.3700829988811,
+      "Average Response Time": 288.3700829988811,
+      "Min Response Time": 288.3700829988811,
+      "Max Response Time": 288.3700829988811,
+      "Average Content Size": 618.0,
+      "Requests/s": 0.3866173361249371,
+      "Failures/s": 0.0,
+      "50%": 290.0,
+      "66%": 290.0,
+      "75%": 290.0,
+      "80%": 290.0,
+      "90%": 290.0,
+      "95%": 290.0,
+      "98%": 290.0,
+      "99%": 290.0,
+      "99.9%": 290.0,
+      "99.99%": 290.0,
+      "100%": 290.0
+    }
+  },
+  "sla_evaluation": {
+    "[data_prep_page][profile_100_rows]": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 820.7512500011944,
+        "current_value": 953.6865839909296,
+        "deviation_pct": 16.2,
+        "threshold": 902.83,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 820.7512500011944,
+        "current_value": 953.6865839909296,
+        "deviation_pct": 16.2,
+        "threshold": 902.83,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 820.7512500011944,
+        "current_value": 953.6865839909296,
+        "deviation_pct": 16.2,
+        "threshold": 902.83,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 820.7512500011944,
+        "current_value": 953.6865839909296,
+        "deviation_pct": 16.2,
+        "threshold": 902.83,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 820.0,
+        "current_value": 950.0,
+        "deviation_pct": 15.85,
+        "threshold": 902.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 820.0,
+        "current_value": 950.0,
+        "deviation_pct": 15.85,
+        "threshold": 902.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 820.0,
+        "current_value": 950.0,
+        "deviation_pct": 15.85,
+        "threshold": 902.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 820.0,
+        "current_value": 950.0,
+        "deviation_pct": 15.85,
+        "threshold": 902.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 820.0,
+        "current_value": 950.0,
+        "deviation_pct": 15.85,
+        "threshold": 902.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 820.0,
+        "current_value": 950.0,
+        "deviation_pct": 15.85,
+        "threshold": 902.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 820.0,
+        "current_value": 950.0,
+        "deviation_pct": 15.85,
+        "threshold": 902.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 820.0,
+        "current_value": 950.0,
+        "deviation_pct": 15.85,
+        "threshold": 902.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 820.0,
+        "current_value": 950.0,
+        "deviation_pct": 15.85,
+        "threshold": 902.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 820.0,
+        "current_value": 950.0,
+        "deviation_pct": 15.85,
+        "threshold": 902.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 820.0,
+        "current_value": 950.0,
+        "deviation_pct": 15.85,
+        "threshold": 902.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[study_details_page][profile_50_rows] get /api/study/summary/{study_id}": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 331.33845900010783,
+        "current_value": 288.3700829988811,
+        "deviation_pct": -12.97,
+        "threshold": 364.47,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 331.33845900010783,
+        "current_value": 288.3700829988811,
+        "deviation_pct": -12.97,
+        "threshold": 364.47,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 331.33845900010783,
+        "current_value": 288.3700829988811,
+        "deviation_pct": -12.97,
+        "threshold": 364.47,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 331.33845900010783,
+        "current_value": 288.3700829988811,
+        "deviation_pct": -12.97,
+        "threshold": 364.47,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 618.0,
+        "current_value": 618.0,
+        "deviation_pct": 0.0,
+        "threshold": 679.8,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 330.0,
+        "current_value": 290.0,
+        "deviation_pct": -12.12,
+        "threshold": 363.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 330.0,
+        "current_value": 290.0,
+        "deviation_pct": -12.12,
+        "threshold": 363.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 330.0,
+        "current_value": 290.0,
+        "deviation_pct": -12.12,
+        "threshold": 363.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 330.0,
+        "current_value": 290.0,
+        "deviation_pct": -12.12,
+        "threshold": 363.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 330.0,
+        "current_value": 290.0,
+        "deviation_pct": -12.12,
+        "threshold": 363.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 330.0,
+        "current_value": 290.0,
+        "deviation_pct": -12.12,
+        "threshold": 363.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 330.0,
+        "current_value": 290.0,
+        "deviation_pct": -12.12,
+        "threshold": 363.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 330.0,
+        "current_value": 290.0,
+        "deviation_pct": -12.12,
+        "threshold": 363.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 330.0,
+        "current_value": 290.0,
+        "deviation_pct": -12.12,
+        "threshold": 363.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 330.0,
+        "current_value": 290.0,
+        "deviation_pct": -12.12,
+        "threshold": 363.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 330.0,
+        "current_value": 290.0,
+        "deviation_pct": -12.12,
+        "threshold": 363.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[scoping_page][profile_50_rows]": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 297.8080829998362,
+        "current_value": 311.7500419903081,
+        "deviation_pct": 4.68,
+        "threshold": 327.59,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 297.8080829998362,
+        "current_value": 311.7500419903081,
+        "deviation_pct": 4.68,
+        "threshold": 327.59,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 297.8080829998362,
+        "current_value": 311.7500419903081,
+        "deviation_pct": 4.68,
+        "threshold": 327.59,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 297.8080829998362,
+        "current_value": 311.7500419903081,
+        "deviation_pct": 4.68,
+        "threshold": 327.59,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[baseline_page][profile_50_rows] post /api/baseline/upload": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 293.8522920012474,
+        "current_value": 325.3617500013206,
+        "deviation_pct": 10.72,
+        "threshold": 323.24,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 293.8522920012474,
+        "current_value": 325.3617500013206,
+        "deviation_pct": 10.72,
+        "threshold": 323.24,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 293.8522920012474,
+        "current_value": 325.3617500013206,
+        "deviation_pct": 10.72,
+        "threshold": 323.24,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 293.8522920012474,
+        "current_value": 325.3617500013206,
+        "deviation_pct": 10.72,
+        "threshold": 323.24,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 8729.0,
+        "current_value": 8731.0,
+        "deviation_pct": 0.02,
+        "threshold": 9601.9,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 290.0,
+        "current_value": 330.0,
+        "deviation_pct": 13.79,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 290.0,
+        "current_value": 330.0,
+        "deviation_pct": 13.79,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 290.0,
+        "current_value": 330.0,
+        "deviation_pct": 13.79,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 290.0,
+        "current_value": 330.0,
+        "deviation_pct": 13.79,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 290.0,
+        "current_value": 330.0,
+        "deviation_pct": 13.79,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 290.0,
+        "current_value": 330.0,
+        "deviation_pct": 13.79,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 290.0,
+        "current_value": 330.0,
+        "deviation_pct": 13.79,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 290.0,
+        "current_value": 330.0,
+        "deviation_pct": 13.79,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 290.0,
+        "current_value": 330.0,
+        "deviation_pct": 13.79,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 290.0,
+        "current_value": 330.0,
+        "deviation_pct": 13.79,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 290.0,
+        "current_value": 330.0,
+        "deviation_pct": 13.79,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[study_details_page][profile_50_rows] get /api/study/details/{study_id}": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 313.050500000827,
+        "current_value": 298.292791005224,
+        "deviation_pct": -4.71,
+        "threshold": 344.36,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 313.050500000827,
+        "current_value": 298.292791005224,
+        "deviation_pct": -4.71,
+        "threshold": 344.36,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 313.050500000827,
+        "current_value": 298.292791005224,
+        "deviation_pct": -4.71,
+        "threshold": 344.36,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 313.050500000827,
+        "current_value": 298.292791005224,
+        "deviation_pct": -4.71,
+        "threshold": 344.36,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 590.0,
+        "current_value": 588.0,
+        "deviation_pct": -0.34,
+        "threshold": 649.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 310.0,
+        "current_value": 300.0,
+        "deviation_pct": -3.23,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 310.0,
+        "current_value": 300.0,
+        "deviation_pct": -3.23,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 310.0,
+        "current_value": 300.0,
+        "deviation_pct": -3.23,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 310.0,
+        "current_value": 300.0,
+        "deviation_pct": -3.23,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 310.0,
+        "current_value": 300.0,
+        "deviation_pct": -3.23,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 310.0,
+        "current_value": 300.0,
+        "deviation_pct": -3.23,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 310.0,
+        "current_value": 300.0,
+        "deviation_pct": -3.23,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 310.0,
+        "current_value": 300.0,
+        "deviation_pct": -3.23,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 310.0,
+        "current_value": 300.0,
+        "deviation_pct": -3.23,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 310.0,
+        "current_value": 300.0,
+        "deviation_pct": -3.23,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 310.0,
+        "current_value": 300.0,
+        "deviation_pct": -3.23,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[data_prep_page][profile_50_rows] post /api/data-prep/upload": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 957.6870000018971,
+        "current_value": 573.6337499984074,
+        "deviation_pct": -40.1,
+        "threshold": 1053.46,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 957.6870000018971,
+        "current_value": 573.6337499984074,
+        "deviation_pct": -40.1,
+        "threshold": 1053.46,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 957.6870000018971,
+        "current_value": 573.6337499984074,
+        "deviation_pct": -40.1,
+        "threshold": 1053.46,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 957.6870000018971,
+        "current_value": 573.6337499984074,
+        "deviation_pct": -40.1,
+        "threshold": 1053.46,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 8358.0,
+        "current_value": 8358.0,
+        "deviation_pct": 0.0,
+        "threshold": 9193.8,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 960.0,
+        "current_value": 570.0,
+        "deviation_pct": -40.62,
+        "threshold": 1056.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 960.0,
+        "current_value": 570.0,
+        "deviation_pct": -40.62,
+        "threshold": 1056.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 960.0,
+        "current_value": 570.0,
+        "deviation_pct": -40.62,
+        "threshold": 1056.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 960.0,
+        "current_value": 570.0,
+        "deviation_pct": -40.62,
+        "threshold": 1056.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 960.0,
+        "current_value": 570.0,
+        "deviation_pct": -40.62,
+        "threshold": 1056.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 960.0,
+        "current_value": 570.0,
+        "deviation_pct": -40.62,
+        "threshold": 1056.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 960.0,
+        "current_value": 570.0,
+        "deviation_pct": -40.62,
+        "threshold": 1056.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 960.0,
+        "current_value": 570.0,
+        "deviation_pct": -40.62,
+        "threshold": 1056.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 960.0,
+        "current_value": 570.0,
+        "deviation_pct": -40.62,
+        "threshold": 1056.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 960.0,
+        "current_value": 570.0,
+        "deviation_pct": -40.62,
+        "threshold": 1056.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 960.0,
+        "current_value": 570.0,
+        "deviation_pct": -40.62,
+        "threshold": 1056.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[baseline_page][profile_100_rows] get /api/baseline/download/{study_id}": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 322.3084170022048,
+        "current_value": 342.76087500620633,
+        "deviation_pct": 6.35,
+        "threshold": 354.54,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 322.3084170022048,
+        "current_value": 342.76087500620633,
+        "deviation_pct": 6.35,
+        "threshold": 354.54,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 322.3084170022048,
+        "current_value": 342.76087500620633,
+        "deviation_pct": 6.35,
+        "threshold": 354.54,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 322.3084170022048,
+        "current_value": 342.76087500620633,
+        "deviation_pct": 6.35,
+        "threshold": 354.54,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 590.0,
+        "current_value": 592.0,
+        "deviation_pct": 0.34,
+        "threshold": 649.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 320.0,
+        "current_value": 340.0,
+        "deviation_pct": 6.25,
+        "threshold": 352.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 320.0,
+        "current_value": 340.0,
+        "deviation_pct": 6.25,
+        "threshold": 352.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 320.0,
+        "current_value": 340.0,
+        "deviation_pct": 6.25,
+        "threshold": 352.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 320.0,
+        "current_value": 340.0,
+        "deviation_pct": 6.25,
+        "threshold": 352.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 320.0,
+        "current_value": 340.0,
+        "deviation_pct": 6.25,
+        "threshold": 352.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 320.0,
+        "current_value": 340.0,
+        "deviation_pct": 6.25,
+        "threshold": 352.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 320.0,
+        "current_value": 340.0,
+        "deviation_pct": 6.25,
+        "threshold": 352.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 320.0,
+        "current_value": 340.0,
+        "deviation_pct": 6.25,
+        "threshold": 352.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 320.0,
+        "current_value": 340.0,
+        "deviation_pct": 6.25,
+        "threshold": 352.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 320.0,
+        "current_value": 340.0,
+        "deviation_pct": 6.25,
+        "threshold": 352.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 320.0,
+        "current_value": 340.0,
+        "deviation_pct": 6.25,
+        "threshold": 352.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[study_details_page][profile_100_rows] get /api/study/summary/{study_id}": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 295.89820800174493,
+        "current_value": 343.28891699260566,
+        "deviation_pct": 16.02,
+        "threshold": 325.49,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 295.89820800174493,
+        "current_value": 343.28891699260566,
+        "deviation_pct": 16.02,
+        "threshold": 325.49,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 295.89820800174493,
+        "current_value": 343.28891699260566,
+        "deviation_pct": 16.02,
+        "threshold": 325.49,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 295.89820800174493,
+        "current_value": 343.28891699260566,
+        "deviation_pct": 16.02,
+        "threshold": 325.49,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 620.0,
+        "current_value": 622.0,
+        "deviation_pct": 0.32,
+        "threshold": 682.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 300.0,
+        "current_value": 340.0,
+        "deviation_pct": 13.33,
+        "threshold": 330.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 300.0,
+        "current_value": 340.0,
+        "deviation_pct": 13.33,
+        "threshold": 330.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 300.0,
+        "current_value": 340.0,
+        "deviation_pct": 13.33,
+        "threshold": 330.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 300.0,
+        "current_value": 340.0,
+        "deviation_pct": 13.33,
+        "threshold": 330.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 300.0,
+        "current_value": 340.0,
+        "deviation_pct": 13.33,
+        "threshold": 330.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 300.0,
+        "current_value": 340.0,
+        "deviation_pct": 13.33,
+        "threshold": 330.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 300.0,
+        "current_value": 340.0,
+        "deviation_pct": 13.33,
+        "threshold": 330.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 300.0,
+        "current_value": 340.0,
+        "deviation_pct": 13.33,
+        "threshold": 330.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 300.0,
+        "current_value": 340.0,
+        "deviation_pct": 13.33,
+        "threshold": 330.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 300.0,
+        "current_value": 340.0,
+        "deviation_pct": 13.33,
+        "threshold": 330.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 300.0,
+        "current_value": 340.0,
+        "deviation_pct": 13.33,
+        "threshold": 330.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[baseline_page][profile_50_rows] get /api/baseline/download/{study_id}": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 296.37108300084947,
+        "current_value": 280.9783750126371,
+        "deviation_pct": -5.19,
+        "threshold": 326.01,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 296.37108300084947,
+        "current_value": 280.9783750126371,
+        "deviation_pct": -5.19,
+        "threshold": 326.01,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 296.37108300084947,
+        "current_value": 280.9783750126371,
+        "deviation_pct": -5.19,
+        "threshold": 326.01,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 296.37108300084947,
+        "current_value": 280.9783750126371,
+        "deviation_pct": -5.19,
+        "threshold": 326.01,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 588.0,
+        "current_value": 592.0,
+        "deviation_pct": 0.68,
+        "threshold": 646.8,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 300.0,
+        "current_value": 280.0,
+        "deviation_pct": -6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 300.0,
+        "current_value": 280.0,
+        "deviation_pct": -6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 300.0,
+        "current_value": 280.0,
+        "deviation_pct": -6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 300.0,
+        "current_value": 280.0,
+        "deviation_pct": -6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 300.0,
+        "current_value": 280.0,
+        "deviation_pct": -6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 300.0,
+        "current_value": 280.0,
+        "deviation_pct": -6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 300.0,
+        "current_value": 280.0,
+        "deviation_pct": -6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 300.0,
+        "current_value": 280.0,
+        "deviation_pct": -6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 300.0,
+        "current_value": 280.0,
+        "deviation_pct": -6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 300.0,
+        "current_value": 280.0,
+        "deviation_pct": -6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 300.0,
+        "current_value": 280.0,
+        "deviation_pct": -6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[scoping_page][profile_100_rows] get /api/scoping/download/{study_id}": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 290.4150840040529,
+        "current_value": 312.95483400754165,
+        "deviation_pct": 7.76,
+        "threshold": 319.46,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 290.4150840040529,
+        "current_value": 312.95483400754165,
+        "deviation_pct": 7.76,
+        "threshold": 319.46,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 290.4150840040529,
+        "current_value": 312.95483400754165,
+        "deviation_pct": 7.76,
+        "threshold": 319.46,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 290.4150840040529,
+        "current_value": 312.95483400754165,
+        "deviation_pct": 7.76,
+        "threshold": 319.46,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 588.0,
+        "current_value": 596.0,
+        "deviation_pct": 1.36,
+        "threshold": 646.8,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[data_prep_page][profile_50_rows]": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 1249.1066250004224,
+        "current_value": 892.8324580047047,
+        "deviation_pct": -28.52,
+        "threshold": 1374.02,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 1249.1066250004224,
+        "current_value": 892.8324580047047,
+        "deviation_pct": -28.52,
+        "threshold": 1374.02,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 1249.1066250004224,
+        "current_value": 892.8324580047047,
+        "deviation_pct": -28.52,
+        "threshold": 1374.02,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 1249.1066250004224,
+        "current_value": 892.8324580047047,
+        "deviation_pct": -28.52,
+        "threshold": 1374.02,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 1200.0,
+        "current_value": 890.0,
+        "deviation_pct": -25.83,
+        "threshold": 1320.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 1200.0,
+        "current_value": 890.0,
+        "deviation_pct": -25.83,
+        "threshold": 1320.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 1200.0,
+        "current_value": 890.0,
+        "deviation_pct": -25.83,
+        "threshold": 1320.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 1200.0,
+        "current_value": 890.0,
+        "deviation_pct": -25.83,
+        "threshold": 1320.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 1200.0,
+        "current_value": 890.0,
+        "deviation_pct": -25.83,
+        "threshold": 1320.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 1200.0,
+        "current_value": 890.0,
+        "deviation_pct": -25.83,
+        "threshold": 1320.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 1200.0,
+        "current_value": 890.0,
+        "deviation_pct": -25.83,
+        "threshold": 1320.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 1200.0,
+        "current_value": 890.0,
+        "deviation_pct": -25.83,
+        "threshold": 1320.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 1200.0,
+        "current_value": 890.0,
+        "deviation_pct": -25.83,
+        "threshold": 1320.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 1200.0,
+        "current_value": 890.0,
+        "deviation_pct": -25.83,
+        "threshold": 1320.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 1200.0,
+        "current_value": 890.0,
+        "deviation_pct": -25.83,
+        "threshold": 1320.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[scoping_page][profile_100_rows]": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 290.6920409950544,
+        "current_value": 313.2888750114944,
+        "deviation_pct": 7.77,
+        "threshold": 319.76,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 290.6920409950544,
+        "current_value": 313.2888750114944,
+        "deviation_pct": 7.77,
+        "threshold": 319.76,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 290.6920409950544,
+        "current_value": 313.2888750114944,
+        "deviation_pct": 7.77,
+        "threshold": 319.76,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 290.6920409950544,
+        "current_value": 313.2888750114944,
+        "deviation_pct": 7.77,
+        "threshold": 319.76,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 290.0,
+        "current_value": 310.0,
+        "deviation_pct": 6.9,
+        "threshold": 319.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[data_prep_page][profile_100_rows] get /api/data-prep/download/{study_id}": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 294.072500000766,
+        "current_value": 349.1152089991374,
+        "deviation_pct": 18.72,
+        "threshold": 323.48,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 294.072500000766,
+        "current_value": 349.1152089991374,
+        "deviation_pct": 18.72,
+        "threshold": 323.48,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 294.072500000766,
+        "current_value": 349.1152089991374,
+        "deviation_pct": 18.72,
+        "threshold": 323.48,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 294.072500000766,
+        "current_value": 349.1152089991374,
+        "deviation_pct": 18.72,
+        "threshold": 323.48,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 592.0,
+        "current_value": 592.0,
+        "deviation_pct": 0.0,
+        "threshold": 651.2,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 290.0,
+        "current_value": 350.0,
+        "deviation_pct": 20.69,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 290.0,
+        "current_value": 350.0,
+        "deviation_pct": 20.69,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 290.0,
+        "current_value": 350.0,
+        "deviation_pct": 20.69,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 290.0,
+        "current_value": 350.0,
+        "deviation_pct": 20.69,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 290.0,
+        "current_value": 350.0,
+        "deviation_pct": 20.69,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 290.0,
+        "current_value": 350.0,
+        "deviation_pct": 20.69,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 290.0,
+        "current_value": 350.0,
+        "deviation_pct": 20.69,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 290.0,
+        "current_value": 350.0,
+        "deviation_pct": 20.69,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 290.0,
+        "current_value": 350.0,
+        "deviation_pct": 20.69,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 290.0,
+        "current_value": 350.0,
+        "deviation_pct": 20.69,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 290.0,
+        "current_value": 350.0,
+        "deviation_pct": 20.69,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[data_prep_page][profile_50_rows] get /api/data-prep/download/{study_id}": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 290.5751669968595,
+        "current_value": 318.1102499947883,
+        "deviation_pct": 9.48,
+        "threshold": 319.63,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 290.5751669968595,
+        "current_value": 318.1102499947883,
+        "deviation_pct": 9.48,
+        "threshold": 319.63,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 290.5751669968595,
+        "current_value": 318.1102499947883,
+        "deviation_pct": 9.48,
+        "threshold": 319.63,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 290.5751669968595,
+        "current_value": 318.1102499947883,
+        "deviation_pct": 9.48,
+        "threshold": 319.63,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 592.0,
+        "current_value": 592.0,
+        "deviation_pct": 0.0,
+        "threshold": 651.2,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 290.0,
+        "current_value": 320.0,
+        "deviation_pct": 10.34,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 290.0,
+        "current_value": 320.0,
+        "deviation_pct": 10.34,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 290.0,
+        "current_value": 320.0,
+        "deviation_pct": 10.34,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 290.0,
+        "current_value": 320.0,
+        "deviation_pct": 10.34,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 290.0,
+        "current_value": 320.0,
+        "deviation_pct": 10.34,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 290.0,
+        "current_value": 320.0,
+        "deviation_pct": 10.34,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 290.0,
+        "current_value": 320.0,
+        "deviation_pct": 10.34,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 290.0,
+        "current_value": 320.0,
+        "deviation_pct": 10.34,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 290.0,
+        "current_value": 320.0,
+        "deviation_pct": 10.34,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 290.0,
+        "current_value": 320.0,
+        "deviation_pct": 10.34,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 290.0,
+        "current_value": 320.0,
+        "deviation_pct": 10.34,
+        "threshold": 319.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[data_prep_page][profile_100_rows] post /api/data-prep/upload": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 526.1230830001296,
+        "current_value": 603.8006250018952,
+        "deviation_pct": 14.76,
+        "threshold": 578.74,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 526.1230830001296,
+        "current_value": 603.8006250018952,
+        "deviation_pct": 14.76,
+        "threshold": 578.74,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 526.1230830001296,
+        "current_value": 603.8006250018952,
+        "deviation_pct": 14.76,
+        "threshold": 578.74,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 526.1230830001296,
+        "current_value": 603.8006250018952,
+        "deviation_pct": 14.76,
+        "threshold": 578.74,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 8363.0,
+        "current_value": 8363.0,
+        "deviation_pct": 0.0,
+        "threshold": 9199.3,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 530.0,
+        "current_value": 600.0,
+        "deviation_pct": 13.21,
+        "threshold": 583.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 530.0,
+        "current_value": 600.0,
+        "deviation_pct": 13.21,
+        "threshold": 583.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 530.0,
+        "current_value": 600.0,
+        "deviation_pct": 13.21,
+        "threshold": 583.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 530.0,
+        "current_value": 600.0,
+        "deviation_pct": 13.21,
+        "threshold": 583.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 530.0,
+        "current_value": 600.0,
+        "deviation_pct": 13.21,
+        "threshold": 583.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 530.0,
+        "current_value": 600.0,
+        "deviation_pct": 13.21,
+        "threshold": 583.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 530.0,
+        "current_value": 600.0,
+        "deviation_pct": 13.21,
+        "threshold": 583.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 530.0,
+        "current_value": 600.0,
+        "deviation_pct": 13.21,
+        "threshold": 583.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 530.0,
+        "current_value": 600.0,
+        "deviation_pct": 13.21,
+        "threshold": 583.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 530.0,
+        "current_value": 600.0,
+        "deviation_pct": 13.21,
+        "threshold": 583.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 530.0,
+        "current_value": 600.0,
+        "deviation_pct": 13.21,
+        "threshold": 583.0,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[study_details_page][profile_100_rows] get /api/study/details/{study_id}": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 309.7683340020012,
+        "current_value": 308.80345799960196,
+        "deviation_pct": -0.31,
+        "threshold": 340.75,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 309.7683340020012,
+        "current_value": 308.80345799960196,
+        "deviation_pct": -0.31,
+        "threshold": 340.75,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 309.7683340020012,
+        "current_value": 308.80345799960196,
+        "deviation_pct": -0.31,
+        "threshold": 340.75,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 309.7683340020012,
+        "current_value": 308.80345799960196,
+        "deviation_pct": -0.31,
+        "threshold": 340.75,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 590.0,
+        "current_value": 588.0,
+        "deviation_pct": -0.34,
+        "threshold": 649.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 310.0,
+        "current_value": 310.0,
+        "deviation_pct": 0.0,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 310.0,
+        "current_value": 310.0,
+        "deviation_pct": 0.0,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 310.0,
+        "current_value": 310.0,
+        "deviation_pct": 0.0,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 310.0,
+        "current_value": 310.0,
+        "deviation_pct": 0.0,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 310.0,
+        "current_value": 310.0,
+        "deviation_pct": 0.0,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 310.0,
+        "current_value": 310.0,
+        "deviation_pct": 0.0,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 310.0,
+        "current_value": 310.0,
+        "deviation_pct": 0.0,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 310.0,
+        "current_value": 310.0,
+        "deviation_pct": 0.0,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 310.0,
+        "current_value": 310.0,
+        "deviation_pct": 0.0,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 310.0,
+        "current_value": 310.0,
+        "deviation_pct": 0.0,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 310.0,
+        "current_value": 310.0,
+        "deviation_pct": 0.0,
+        "threshold": 341.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[study_details_page][profile_50_rows]": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 644.9970000030589,
+        "current_value": 587.0139999897219,
+        "deviation_pct": -8.99,
+        "threshold": 709.5,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 644.9970000030589,
+        "current_value": 587.0139999897219,
+        "deviation_pct": -8.99,
+        "threshold": 709.5,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 644.9970000030589,
+        "current_value": 587.0139999897219,
+        "deviation_pct": -8.99,
+        "threshold": 709.5,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 644.9970000030589,
+        "current_value": 587.0139999897219,
+        "deviation_pct": -8.99,
+        "threshold": 709.5,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 640.0,
+        "current_value": 590.0,
+        "deviation_pct": -7.81,
+        "threshold": 704.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 640.0,
+        "current_value": 590.0,
+        "deviation_pct": -7.81,
+        "threshold": 704.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 640.0,
+        "current_value": 590.0,
+        "deviation_pct": -7.81,
+        "threshold": 704.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 640.0,
+        "current_value": 590.0,
+        "deviation_pct": -7.81,
+        "threshold": 704.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 640.0,
+        "current_value": 590.0,
+        "deviation_pct": -7.81,
+        "threshold": 704.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 640.0,
+        "current_value": 590.0,
+        "deviation_pct": -7.81,
+        "threshold": 704.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 640.0,
+        "current_value": 590.0,
+        "deviation_pct": -7.81,
+        "threshold": 704.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 640.0,
+        "current_value": 590.0,
+        "deviation_pct": -7.81,
+        "threshold": 704.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 640.0,
+        "current_value": 590.0,
+        "deviation_pct": -7.81,
+        "threshold": 704.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 640.0,
+        "current_value": 590.0,
+        "deviation_pct": -7.81,
+        "threshold": 704.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 640.0,
+        "current_value": 590.0,
+        "deviation_pct": -7.81,
+        "threshold": 704.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[baseline_page][profile_100_rows]": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 627.5088340044022,
+        "current_value": 658.9571250078734,
+        "deviation_pct": 5.01,
+        "threshold": 690.26,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 627.5088340044022,
+        "current_value": 658.9571250078734,
+        "deviation_pct": 5.01,
+        "threshold": 690.26,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 627.5088340044022,
+        "current_value": 658.9571250078734,
+        "deviation_pct": 5.01,
+        "threshold": 690.26,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 627.5088340044022,
+        "current_value": 658.9571250078734,
+        "deviation_pct": 5.01,
+        "threshold": 690.26,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 630.0,
+        "current_value": 660.0,
+        "deviation_pct": 4.76,
+        "threshold": 693.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 630.0,
+        "current_value": 660.0,
+        "deviation_pct": 4.76,
+        "threshold": 693.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 630.0,
+        "current_value": 660.0,
+        "deviation_pct": 4.76,
+        "threshold": 693.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 630.0,
+        "current_value": 660.0,
+        "deviation_pct": 4.76,
+        "threshold": 693.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 630.0,
+        "current_value": 660.0,
+        "deviation_pct": 4.76,
+        "threshold": 693.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 630.0,
+        "current_value": 660.0,
+        "deviation_pct": 4.76,
+        "threshold": 693.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 630.0,
+        "current_value": 660.0,
+        "deviation_pct": 4.76,
+        "threshold": 693.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 630.0,
+        "current_value": 660.0,
+        "deviation_pct": 4.76,
+        "threshold": 693.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 630.0,
+        "current_value": 660.0,
+        "deviation_pct": 4.76,
+        "threshold": 693.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 630.0,
+        "current_value": 660.0,
+        "deviation_pct": 4.76,
+        "threshold": 693.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 630.0,
+        "current_value": 660.0,
+        "deviation_pct": 4.76,
+        "threshold": 693.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[scoping_page][profile_50_rows] get /api/scoping/download/{study_id}": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 297.5140420021489,
+        "current_value": 311.49054199340753,
+        "deviation_pct": 4.7,
+        "threshold": 327.27,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 297.5140420021489,
+        "current_value": 311.49054199340753,
+        "deviation_pct": 4.7,
+        "threshold": 327.27,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 297.5140420021489,
+        "current_value": 311.49054199340753,
+        "deviation_pct": 4.7,
+        "threshold": 327.27,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 297.5140420021489,
+        "current_value": 311.49054199340753,
+        "deviation_pct": 4.7,
+        "threshold": 327.27,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 592.0,
+        "current_value": 590.0,
+        "deviation_pct": -0.34,
+        "threshold": 651.2,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 300.0,
+        "current_value": 310.0,
+        "deviation_pct": 3.33,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[study_details_page][profile_100_rows]": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 606.2194170008297,
+        "current_value": 652.4630000058096,
+        "deviation_pct": 7.63,
+        "threshold": 666.84,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 606.2194170008297,
+        "current_value": 652.4630000058096,
+        "deviation_pct": 7.63,
+        "threshold": 666.84,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 606.2194170008297,
+        "current_value": 652.4630000058096,
+        "deviation_pct": 7.63,
+        "threshold": 666.84,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 606.2194170008297,
+        "current_value": 652.4630000058096,
+        "deviation_pct": 7.63,
+        "threshold": 666.84,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 610.0,
+        "current_value": 650.0,
+        "deviation_pct": 6.56,
+        "threshold": 671.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 610.0,
+        "current_value": 650.0,
+        "deviation_pct": 6.56,
+        "threshold": 671.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 610.0,
+        "current_value": 650.0,
+        "deviation_pct": 6.56,
+        "threshold": 671.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 610.0,
+        "current_value": 650.0,
+        "deviation_pct": 6.56,
+        "threshold": 671.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 610.0,
+        "current_value": 650.0,
+        "deviation_pct": 6.56,
+        "threshold": 671.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 610.0,
+        "current_value": 650.0,
+        "deviation_pct": 6.56,
+        "threshold": 671.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 610.0,
+        "current_value": 650.0,
+        "deviation_pct": 6.56,
+        "threshold": 671.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 610.0,
+        "current_value": 650.0,
+        "deviation_pct": 6.56,
+        "threshold": 671.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 610.0,
+        "current_value": 650.0,
+        "deviation_pct": 6.56,
+        "threshold": 671.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 610.0,
+        "current_value": 650.0,
+        "deviation_pct": 6.56,
+        "threshold": 671.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 610.0,
+        "current_value": 650.0,
+        "deviation_pct": 6.56,
+        "threshold": 671.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[baseline_page][profile_100_rows] post /api/baseline/upload": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 303.8925000000745,
+        "current_value": 315.3382500022417,
+        "deviation_pct": 3.77,
+        "threshold": 334.28,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 303.8925000000745,
+        "current_value": 315.3382500022417,
+        "deviation_pct": 3.77,
+        "threshold": 334.28,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 303.8925000000745,
+        "current_value": 315.3382500022417,
+        "deviation_pct": 3.77,
+        "threshold": 334.28,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 303.8925000000745,
+        "current_value": 315.3382500022417,
+        "deviation_pct": 3.77,
+        "threshold": 334.28,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 8732.0,
+        "current_value": 8732.0,
+        "deviation_pct": 0.0,
+        "threshold": 9605.2,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 300.0,
+        "current_value": 320.0,
+        "deviation_pct": 6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 300.0,
+        "current_value": 320.0,
+        "deviation_pct": 6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 300.0,
+        "current_value": 320.0,
+        "deviation_pct": 6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 300.0,
+        "current_value": 320.0,
+        "deviation_pct": 6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 300.0,
+        "current_value": 320.0,
+        "deviation_pct": 6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 300.0,
+        "current_value": 320.0,
+        "deviation_pct": 6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 300.0,
+        "current_value": 320.0,
+        "deviation_pct": 6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 300.0,
+        "current_value": 320.0,
+        "deviation_pct": 6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 300.0,
+        "current_value": 320.0,
+        "deviation_pct": 6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 300.0,
+        "current_value": 320.0,
+        "deviation_pct": 6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 300.0,
+        "current_value": 320.0,
+        "deviation_pct": 6.67,
+        "threshold": 330.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "[baseline_page][profile_50_rows]": {
+      "Request Count": {
+        "baseline_value": 1.0,
+        "current_value": 1.0,
+        "deviation_pct": 0.0,
+        "threshold": 1.1,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Median Response Time": {
+        "baseline_value": 591.5627919966937,
+        "current_value": 607.2668340057135,
+        "deviation_pct": 2.65,
+        "threshold": 650.72,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Response Time": {
+        "baseline_value": 591.5627919966937,
+        "current_value": 607.2668340057135,
+        "deviation_pct": 2.65,
+        "threshold": 650.72,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Min Response Time": {
+        "baseline_value": 591.5627919966937,
+        "current_value": 607.2668340057135,
+        "deviation_pct": 2.65,
+        "threshold": 650.72,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Max Response Time": {
+        "baseline_value": 591.5627919966937,
+        "current_value": 607.2668340057135,
+        "deviation_pct": 2.65,
+        "threshold": 650.72,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Average Content Size": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "Requests/s": {
+        "baseline_value": 0.35894255007715764,
+        "current_value": 0.3866173361249371,
+        "deviation_pct": 7.71,
+        "threshold": 0.39,
+        "status": "BREACH",
+        "comparison_source": "BASELINE"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "50%": {
+        "baseline_value": 590.0,
+        "current_value": 610.0,
+        "deviation_pct": 3.39,
+        "threshold": 649.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "66%": {
+        "baseline_value": 590.0,
+        "current_value": 610.0,
+        "deviation_pct": 3.39,
+        "threshold": 649.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "75%": {
+        "baseline_value": 590.0,
+        "current_value": 610.0,
+        "deviation_pct": 3.39,
+        "threshold": 649.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "80%": {
+        "baseline_value": 590.0,
+        "current_value": 610.0,
+        "deviation_pct": 3.39,
+        "threshold": 649.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "90%": {
+        "baseline_value": 590.0,
+        "current_value": 610.0,
+        "deviation_pct": 3.39,
+        "threshold": 649.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "95%": {
+        "baseline_value": 590.0,
+        "current_value": 610.0,
+        "deviation_pct": 3.39,
+        "threshold": 649.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "98%": {
+        "baseline_value": 590.0,
+        "current_value": 610.0,
+        "deviation_pct": 3.39,
+        "threshold": 649.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99%": {
+        "baseline_value": 590.0,
+        "current_value": 610.0,
+        "deviation_pct": 3.39,
+        "threshold": 649.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.9%": {
+        "baseline_value": 590.0,
+        "current_value": 610.0,
+        "deviation_pct": 3.39,
+        "threshold": 649.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "99.99%": {
+        "baseline_value": 590.0,
+        "current_value": 610.0,
+        "deviation_pct": 3.39,
+        "threshold": 649.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "100%": {
+        "baseline_value": 590.0,
+        "current_value": 610.0,
+        "deviation_pct": 3.39,
+        "threshold": 649.0,
+        "status": "PASS",
+        "comparison_source": "BASELINE"
+      },
+      "_api_status": "BREACH"
+    },
+    "post /upload/priyanka": {
+      "_api_status": "REMOVED_API",
+      "_reason": "Present in baseline, not found in current run"
+    },
+    "post /upload/priyanshi": {
+      "_api_status": "REMOVED_API",
+      "_reason": "Present in baseline, not found in current run"
+    }
+  }
+}

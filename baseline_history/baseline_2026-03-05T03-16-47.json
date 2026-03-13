@@ -1,0 +1,175 @@
+{
+  "archived_at": "2026-03-05T03:16:47.437998Z",
+  "comparison_flag": true,
+  "raw_results": {
+    "/post": {
+      "Type": "POST",
+      "Name": "/post",
+      "Request Count": 18.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 370.0,
+      "Average Response Time": 403.9892871143012,
+      "Min Response Time": 314.798334002262,
+      "Max Response Time": 545.0097089924384,
+      "Average Content Size": 23345.277777777777,
+      "Requests/s": 0.9977085369536327,
+      "Failures/s": 0.0,
+      "50%": 380.0,
+      "66%": 440.0,
+      "75%": 450.0,
+      "80%": 460.0,
+      "90%": 530.0,
+      "95%": 550.0,
+      "98%": 550.0,
+      "99%": 550.0,
+      "99.9%": 550.0,
+      "99.99%": 550.0,
+      "100%": 550.0
+    }
+  },
+  "sla_evaluation": {
+    "/post": {
+      "Request Count": {
+        "baseline_value": 16.0,
+        "current_value": 18.0,
+        "deviation_pct": 12.5,
+        "threshold": 17.6,
+        "status": "BREACH"
+      },
+      "Failure Count": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS"
+      },
+      "Median Response Time": {
+        "baseline_value": 380.0,
+        "current_value": 370.0,
+        "deviation_pct": -2.63,
+        "threshold": 418.0,
+        "status": "PASS"
+      },
+      "Average Response Time": {
+        "baseline_value": 414.1975155653199,
+        "current_value": 403.9892871143012,
+        "deviation_pct": -2.46,
+        "threshold": 455.62,
+        "status": "PASS"
+      },
+      "Min Response Time": {
+        "baseline_value": 313.34387499373406,
+        "current_value": 314.798334002262,
+        "deviation_pct": 0.46,
+        "threshold": 344.68,
+        "status": "PASS"
+      },
+      "Max Response Time": {
+        "baseline_value": 606.118041992886,
+        "current_value": 545.0097089924384,
+        "deviation_pct": -10.08,
+        "threshold": 666.73,
+        "status": "PASS"
+      },
+      "Average Content Size": {
+        "baseline_value": 23337.5625,
+        "current_value": 23345.277777777777,
+        "deviation_pct": 0.03,
+        "threshold": 25671.32,
+        "status": "PASS"
+      },
+      "Requests/s": {
+        "baseline_value": 0.9197100124840654,
+        "current_value": 0.9977085369536327,
+        "deviation_pct": 8.48,
+        "threshold": 1.01,
+        "status": "BREACH"
+      },
+      "Failures/s": {
+        "baseline_value": 0.0,
+        "current_value": 0.0,
+        "deviation_pct": 0,
+        "threshold": 0,
+        "status": "PASS"
+      },
+      "50%": {
+        "baseline_value": 390.0,
+        "current_value": 380.0,
+        "deviation_pct": -2.56,
+        "threshold": 429.0,
+        "status": "PASS"
+      },
+      "66%": {
+        "baseline_value": 420.0,
+        "current_value": 440.0,
+        "deviation_pct": 4.76,
+        "threshold": 462.0,
+        "status": "PASS"
+      },
+      "75%": {
+        "baseline_value": 450.0,
+        "current_value": 450.0,
+        "deviation_pct": 0.0,
+        "threshold": 495.0,
+        "status": "PASS"
+      },
+      "80%": {
+        "baseline_value": 450.0,
+        "current_value": 460.0,
+        "deviation_pct": 2.22,
+        "threshold": 495.0,
+        "status": "PASS"
+      },
+      "90%": {
+        "baseline_value": 610.0,
+        "current_value": 530.0,
+        "deviation_pct": -13.11,
+        "threshold": 671.0,
+        "status": "PASS"
+      },
+      "95%": {
+        "baseline_value": 610.0,
+        "current_value": 550.0,
+        "deviation_pct": -9.84,
+        "threshold": 671.0,
+        "status": "PASS"
+      },
+      "98%": {
+        "baseline_value": 610.0,
+        "current_value": 550.0,
+        "deviation_pct": -9.84,
+        "threshold": 671.0,
+        "status": "PASS"
+      },
+      "99%": {
+        "baseline_value": 610.0,
+        "current_value": 550.0,
+        "deviation_pct": -9.84,
+        "threshold": 671.0,
+        "status": "PASS"
+      },
+      "99.9%": {
+        "baseline_value": 610.0,
+        "current_value": 550.0,
+        "deviation_pct": -9.84,
+        "threshold": 671.0,
+        "status": "PASS"
+      },
+      "99.99%": {
+        "baseline_value": 610.0,
+        "current_value": 550.0,
+        "deviation_pct": -9.84,
+        "threshold": 671.0,
+        "status": "PASS"
+      },
+      "100%": {
+        "baseline_value": 610.0,
+        "current_value": 550.0,
+        "deviation_pct": -9.84,
+        "threshold": 671.0,
+        "status": "PASS"
+      },
+      "_api_status": "BREACH"
+    }
+  }
+}

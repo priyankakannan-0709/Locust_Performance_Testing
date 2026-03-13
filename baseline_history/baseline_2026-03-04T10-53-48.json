@@ -1,0 +1,47 @@
+{
+  "archived_at": "2026-03-04T10:53:48.578682Z",
+  "comparison_flag": true,
+  "raw_results": {
+    "/post": {
+      "Type": "POST",
+      "Name": "/post",
+      "Request Count": 1.0,
+      "Failure Count": 0.0,
+      "Median Response Time": 2055.962082988117,
+      "Average Response Time": 2055.962082988117,
+      "Min Response Time": 2055.962082988117,
+      "Max Response Time": 2055.962082988117,
+      "Average Content Size": 23188.0,
+      "Requests/s": 0.4862664043599887,
+      "Failures/s": 0.0,
+      "50%": 2100.0,
+      "66%": 2100.0,
+      "75%": 2100.0,
+      "80%": 2100.0,
+      "90%": 2100.0,
+      "95%": 2100.0,
+      "98%": 2100.0,
+      "99%": 2100.0,
+      "99.9%": 2100.0,
+      "99.99%": 2100.0,
+      "100%": 2100.0
+    }
+  },
+  "sla_evaluation": {
+    "/post": {
+      "_api_status": "NEW_BASELINE_CAPTURED"
+    },
+    "/users": {
+      "_api_status": "REMOVED_API",
+      "_reason": "Present in baseline, not found in current run"
+    },
+    "/auth/me": {
+      "_api_status": "REMOVED_API",
+      "_reason": "Present in baseline, not found in current run"
+    },
+    "/auth/login": {
+      "_api_status": "REMOVED_API",
+      "_reason": "Present in baseline, not found in current run"
+    }
+  }
+}

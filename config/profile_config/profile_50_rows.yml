@@ -1,0 +1,35 @@
+profile_name: "profile_50_rows"
+row_count: 50
+
+page_data:
+  data_prep_page:
+    data_file: "data_prep_page/profile_50_rows.xlsx"
+    polling:
+      interval_seconds: 10
+      expected_ms: 120000       # 2 min — warn threshold
+      max_wait_ms: 300000
+    expected_sla:
+      upload_max_ms: 30000
+      download_max_ms: 15000
+
+  baseline_page:
+    data_file: "baseline_page/profile_50_rows.xlsx"
+    polling:
+      interval_seconds: 10
+      expected_ms: 120000       # 2 min — warn threshold
+      max_wait_ms: 300000
+    expected_sla:
+      upload_max_ms: 20000
+      download_max_ms: 10000
+
+  scoping_page:
+    expected_sla:
+      download_max_ms: 10000
+    polling:
+      interval_seconds: 10
+      expected_ms: 120000       # 2 min — warn threshold
+      max_wait_ms: 300000
+
+  study_details_page:
+    expected_sla:
+      page_load_max_ms: 5000

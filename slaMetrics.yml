@@ -1,0 +1,13 @@
+# Performance Threshold Configuration
+# Defines the % buffer allowed over the baseline for different response time tiers.
+
+sla_tiers:
+  - name: "Fast"
+    max_response_time: 100    # APIs faster than 100ms
+    buffer_pct: 5             # 5% tolerance
+  - name: "Medium"
+    max_response_time: 500    # APIs between 100ms and 500ms
+    buffer_pct: 10            # 10% tolerance
+  - name: "Slow"
+    max_response_time: 999999 # APIs slower than 500ms
+    buffer_pct: 20            # 20% tolerance
