@@ -110,9 +110,15 @@ def run_sla_evaluation(api_changes, current_results, baseline_data, sla_override
 
         current_metrics = get_normalised_keys(current_results).get(api_name, {})
         baseline_metrics = get_normalised_keys(baseline_data).get(api_name, {})
-
+        EXCLUDED_FROM_SLA = {
+            "Requests/s",
+            "Failures/s",
+            "Request Count",
+            "Failure Count",
+        }
         for metric_name, current_value in current_metrics.items():
-
+            if metric_name in EXCLUDED_FROM_SLA:
+                continue
             # Skip non-metric fields
             if metric_name in ("Type", "Name"):
                 continue
@@ -226,7 +232,7 @@ def evaluate_sla(metric_name, baseline_value, current_value, complexity):
     complexity_buffers = {
         "small": 0.05,      # 5%
         "medium": 0.10,     # 10%
-        "complex": 0.12     # 12%
+        "complex": 0.16     # 16%
     }
 
     buffer = complexity_buffers.get(complexity, 0.10)

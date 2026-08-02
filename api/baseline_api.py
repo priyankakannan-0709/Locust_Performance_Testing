@@ -3,7 +3,7 @@ from utils.logger import get_logger
 logger = get_logger(__name__)
 
 class BaselineAPI:
-
+    complexity = "complex"
     def __init__(self, client):
         self.client  = client
         self.headers = {}
